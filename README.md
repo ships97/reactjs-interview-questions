@@ -457,6 +457,10 @@ You can download the PDF and Epub version of this repository from the latest run
     ```
 
 
+    https://www.geeksforgeeks.org/what-is-the-difference-between-element-and-component/
+    
+    
+
    **[⬆ Back to Top](#table-of-contents)**
     
 5. ### How to create components in React?
